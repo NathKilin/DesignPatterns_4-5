@@ -22,4 +22,3 @@ class AttackingState : IEnemyState
         enemy.SetState(new PatrolState());
     }
 }
-//test
