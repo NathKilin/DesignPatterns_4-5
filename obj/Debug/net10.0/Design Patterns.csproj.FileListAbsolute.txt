@@ -12,3 +12,18 @@ C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\refint\Design Pattern
 C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\Design Patterns.pdb
 C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\Design Patterns.genruntimeconfig.cache
 C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\ref\Design Patterns.dll
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\bin\Debug\net10.0\Design Patterns.exe
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\bin\Debug\net10.0\Design Patterns.deps.json
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\bin\Debug\net10.0\Design Patterns.runtimeconfig.json
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\bin\Debug\net10.0\Design Patterns.dll
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\bin\Debug\net10.0\Design Patterns.pdb
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\Design Patterns.AssemblyInfoInputs.cache
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\Design Patterns.AssemblyInfo.cs
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\Design Patterns.sourcelink.json
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\Design Patterns.dll
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\refint\Design Patterns.dll
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\Design Patterns.pdb
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\Design Patterns.genruntimeconfig.cache
+C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\ref\Design Patterns.dll

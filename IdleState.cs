@@ -1,23 +1,16 @@
-class IdleState : IEnemyState
+namespace Design_Patterns;
+
+class IdleState : State
 {
-    public void PlayerApproached(Enemy enemy)
-    {
-        Console.WriteLine("[ENEMY IDLE] Player got close. Switching to PATROL.");
-        enemy.SetState(new PatrolState());
-    }
+    public IdleState(Enemy owner, StateMachine stateMachine) : base(owner, stateMachine) { }
 
-    public void PlayerMovedAway(Enemy enemy)
-    {
-        Console.WriteLine("[ENEMY IDLE] Already idle, nothing changes.");
-    }
+    public override void Enter() => Console.WriteLine($"-> [Enemy {Owner.Id}] Entered IDLE State.");
+    public override void Update() => Console.WriteLine($"   [Enemy {Owner.Id} - Idle] Standing guard...");
+    public override void Exit() => Console.WriteLine($"<- [Enemy {Owner.Id}] Exiting IDLE State.");
 
-    public void PlayerDiscovered(Enemy enemy)
+    public override void PlayerApproaches()
     {
-        Console.WriteLine("[ENEMY IDLE] Can't discover player while idle.");
-    }
-
-    public void PlayerHid(Enemy enemy)
-    {
-        Console.WriteLine("[ENEMY IDLE] Already idle, nothing changes.");
+        Console.WriteLine($"[EVENT] Player approached Enemy {Owner.Id}!");
+        StateMachine.ChangeState(new PatrolState(Owner, StateMachine));
     }
 }

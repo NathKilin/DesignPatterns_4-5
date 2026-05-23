@@ -1,24 +1,16 @@
-class AttackingState : IEnemyState
+using Design_Patterns;
+
+class AttackingState : State
 {
-    public void PlayerApproached(Enemy enemy)
-    {
-        Console.WriteLine("[ENEMY ATTACKING] Player is right here. Keep attacking!");
-    }
+    public AttackingState(Enemy owner, StateMachine stateMachine) : base(owner, stateMachine) { }
 
-    public void PlayerMovedAway(Enemy enemy)
-    {
-        Console.WriteLine("[ENEMY ATTACKING] Player ran away. Going back to PATROL.");
-        enemy.SetState(new PatrolState());
-    }
+    public override void Enter() => Console.WriteLine($"-> [Enemy {Owner.Id}] Entered ATTACKING State.");
+    public override void Update() => Console.WriteLine($"   [Enemy {Owner.Id} - Attacking] Firing weapons at the target!");
+    public override void Exit() => Console.WriteLine($"<- [Enemy {Owner.Id}] Exiting ATTACKING State.");
 
-    public void PlayerDiscovered(Enemy enemy)
+    public override void PlayerHid()
     {
-        Console.WriteLine("[ENEMY ATTACKING] Already attacking. Nothing changes.");
-    }
-
-    public void PlayerHid(Enemy enemy)
-    {
-        Console.WriteLine("[ENEMY ATTACKING] Player hid! Switching to PATROL to search.");
-        enemy.SetState(new PatrolState());
+        Console.WriteLine($"[EVENT] Player hid from Enemy {Owner.Id}!");
+        StateMachine.ChangeState(new PatrolState(Owner, StateMachine));
     }
 }
