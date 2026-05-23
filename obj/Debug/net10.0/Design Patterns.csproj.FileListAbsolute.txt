@@ -1,0 +1,14 @@
+C:\Users\nathk\Documents\Design Patterns\bin\Debug\net10.0\Design Patterns.exe
+C:\Users\nathk\Documents\Design Patterns\bin\Debug\net10.0\Design Patterns.deps.json
+C:\Users\nathk\Documents\Design Patterns\bin\Debug\net10.0\Design Patterns.runtimeconfig.json
+C:\Users\nathk\Documents\Design Patterns\bin\Debug\net10.0\Design Patterns.dll
+C:\Users\nathk\Documents\Design Patterns\bin\Debug\net10.0\Design Patterns.pdb
+C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\Design Patterns.AssemblyInfoInputs.cache
+C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\Design Patterns.AssemblyInfo.cs
+C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\Design Patterns.dll
+C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\refint\Design Patterns.dll
+C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\Design Patterns.pdb
+C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\Design Patterns.genruntimeconfig.cache
+C:\Users\nathk\Documents\Design Patterns\obj\Debug\net10.0\ref\Design Patterns.dll
