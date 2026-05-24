@@ -8,24 +8,26 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\areyn\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\Tiltan\\Year 2 B\\Design Patterns\\Assignment5\\Design Patterns.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Seraphim\\Code\\C#\\Rider Projects\\DesignPatterns_4-5\\Design Patterns.csproj",
       "projectName": "Design Patterns",
-      "projectPath": "C:\\Work\\Tiltan\\Year 2 B\\Design Patterns\\Assignment5\\Design Patterns.csproj",
-      "packagesPath": "C:\\Users\\areyn\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\Tiltan\\Year 2 B\\Design Patterns\\Assignment5\\obj\\",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\Seraphim\\Code\\C#\\Rider Projects\\DesignPatterns_4-5\\Design Patterns.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\Seraphim\\Code\\C#\\Rider Projects\\DesignPatterns_4-5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\areyn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -44,7 +46,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
@@ -65,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\areyn\\.dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

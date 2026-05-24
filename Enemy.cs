@@ -11,14 +11,11 @@ class Enemy
         StateMachine = new StateMachine();
 
         StateMachine.Initialize(new IdleState(this, StateMachine));
+        
+        GameManager.Instance.RegisterEnemy(this);
     }
-
-    public void OnPlayerApproaches() => StateMachine.CurrentState.PlayerApproaches();
-    public void OnPlayerMovedAway()  => StateMachine.CurrentState.PlayerMovedAway();
-    public void OnPlayerDiscovered() => StateMachine.CurrentState.PlayerDiscovered();
-    public void OnPlayerHid()        => StateMachine.CurrentState.PlayerHid();
-
-    public void Tick() => StateMachine.CurrentState.Update();
     
-    // TODO: Connect the Mediator to the enemy
+
+    public void Update(float deltaTime) => StateMachine.CurrentState.Update(deltaTime);
+    
 }

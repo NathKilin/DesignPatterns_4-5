@@ -12,11 +12,10 @@ abstract class State
     }
 
     public abstract void Enter();
-    public abstract void Update();
+    public abstract void Update(float deltaTime);
     public abstract void Exit();
 
     public virtual void PlayerApproaches() { }
     public virtual void PlayerMovedAway() { }
-    public virtual void PlayerDiscovered() { }
     public virtual void PlayerHid() { }
 }

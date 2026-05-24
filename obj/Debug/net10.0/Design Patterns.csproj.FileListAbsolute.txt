@@ -27,3 +27,18 @@ C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\refint\Des
 C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\Design Patterns.pdb
 C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\Design Patterns.genruntimeconfig.cache
 C:\Work\Tiltan\Year 2 B\Design Patterns\Assignment5\obj\Debug\net10.0\ref\Design Patterns.dll
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\bin\Debug\net10.0\Design Patterns.exe
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\bin\Debug\net10.0\Design Patterns.deps.json
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\bin\Debug\net10.0\Design Patterns.runtimeconfig.json
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\bin\Debug\net10.0\Design Patterns.dll
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\bin\Debug\net10.0\Design Patterns.pdb
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\obj\Debug\net10.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\obj\Debug\net10.0\Design Patterns.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\obj\Debug\net10.0\Design Patterns.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\obj\Debug\net10.0\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\obj\Debug\net10.0\Design Patterns.sourcelink.json
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\obj\Debug\net10.0\Design Patterns.dll
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\obj\Debug\net10.0\refint\Design Patterns.dll
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\obj\Debug\net10.0\Design Patterns.pdb
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\obj\Debug\net10.0\Design Patterns.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Seraphim\Code\C#\Rider Projects\DesignPatterns_4-5\obj\Debug\net10.0\ref\Design Patterns.dll
